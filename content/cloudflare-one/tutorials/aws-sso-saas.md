@@ -24,7 +24,7 @@ For this tutorial, you will need:
 
 20 minutes
 
-## Configure AWS
+### Configure AWS
 
 1.  In the AWS admin panel, search for `SSO`.
 
